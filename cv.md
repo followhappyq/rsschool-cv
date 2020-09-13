@@ -36,3 +36,24 @@ To get a position as a Frontend Developer.
 
 **Code examples:**
 [https://github.com/followhappyq](followhappyq)
+
+**Work Experience:**
+June 2019 - September 2019(4 months) JavaScript developer(internship)
+
+- Developing online store.
+- Facebook/Google/VK OAuth
+- SignIn/Auth/Forms validation.
+- Build React component
+- Used libraries(lodash, formik,classNames,axios, etc.)
+
+**Education:**
+
+2017-2020 WSB in Gdansk
+Informatics, Software developer
+
+**Languages:**
+
+- Russian - Native
+- Polish - B2
+- English - A2\B1
+
