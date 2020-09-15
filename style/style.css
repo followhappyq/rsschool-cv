@@ -1,0 +1,27 @@
+body {
+  padding: 20px;
+  font: Carme;
+}
+h1,
+h3 {
+  color: #091518;
+}
+a {
+  text-decoration: none;
+  color: #941e8a;
+}
+.main {
+  margin: 0 auto;
+  max-width: 1024px;
+}
+.main-info ul {
+  list-style-type: none;
+  float: left;
+}
+.photo {
+  width: 174px;
+  float: right;
+}
+.clear {
+  clear: both;
+}
